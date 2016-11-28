@@ -24,4 +24,4 @@ gen
 # gradle usage
 .gradle
 gradle
-src/main/webapp/
+build
