@@ -1,4 +1,4 @@
-Feature: add the budget
+Feature: Add budget
 
   Scenario: Add budget successfully
     When Add budget 1000 for "2017-10"
