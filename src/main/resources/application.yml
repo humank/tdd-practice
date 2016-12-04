@@ -1,0 +1,9 @@
+# using HSQLDB as an embedded database to present the example.
+
+spring:
+#  datasource:
+#    generate-unique-name : true
+selenium:
+    browser: FIREFOX
+application:
+    perPageLimit: 10
